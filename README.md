@@ -1,2 +1,2 @@
-![image]("image1.png")
-![image]("image2.png")
+![face detection](/image1.png)
+![image detector](/image2.png)
